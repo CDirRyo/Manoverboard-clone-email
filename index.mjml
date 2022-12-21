@@ -1,0 +1,65 @@
+<mjml owa="desktop" lang="en">
+    <mj-head>
+        <mj-title>Manoverboard Clone Email</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto" />
+        <mj-font name="Karla" href="https://fonts.googleapis.com/css2?family=Karla" />
+        <mj-attributes>
+            <mj-text align="center" font-family="'Roboto', sans-serif" font-size="18px" line-height="26px" color="#fff" padding="0"/>
+            <mj-section padding="0" background-color="#f7323f"/>
+            <mj-image padding="0" />
+            <mj-class font-family="Karla,Calibri,Geneva,sans-serif" name="footer-text" align="left" font-size="12px" line-height="19px" />
+        </mj-attributes>
+        <mj-style inline="inline">
+            p {
+                margin: 0;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#f7323f">
+        <!--Logo-->
+        <mj-section padding-top="70px" padding-bottom="30px">
+            <mj-column>
+                <mj-image href="#" src="https://i1.createsend1.com/ei/r/FE/4A8/68B/020426/csfinal/unnamed.png" alt="manoverboard" width="166px"/>
+            </mj-column>
+        </mj-section>
+        <!--Hero-->
+        <mj-section padding-top="44px" padding-bottom="44px">
+            <mj-column>
+                <mj-image src="https://i1.createsend1.com/ei/r/FE/4A8/68B/020426/csfinal/newsletter-december-201710-9900000000079e3c.png" alt="happy" />
+            </mj-column>
+        </mj-section>
+        <!--Text-->
+        <mj-section padding="0px 20px 30px 20px">
+            <mj-column>
+                <mj-text>
+                    <p>From all of us at Manoverboard, wishing you and your family much happiness, good health, and a peaceful and joyful 2019!</p>
+                </mj-text>
+                <mj-text padding-top="20px" padding-bottom="20px">
+                    <p>–Andrew, Dan, Jory and Nikki</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!--Image-->
+        <mj-section padding-bottom="64px">
+            <mj-column>
+                <mj-image src="https://i2.createsend1.com/ei/r/FE/4A8/68B/020426/csfinal/newsletter-december-2017-logos6-9900000000079e3c.png" alt="1% for the Planet / Certified B Corporation" />
+            </mj-column>
+        </mj-section>
+        <!--Footer-->
+        <mj-section padding-top="20px" padding-bottom="40px">
+            <mj-column>
+                <mj-text mj-class="footer-text" padding="10px 20px 28px 20px">
+                    <p>
+                        Manoverboard Inc.<br>
+                        308 Morley Avenue Suite 7<br>
+                        WInnipeg MB R3L 0Y5<br>
+                        Canada
+                    </p>
+                </mj-text>
+                <mj-text mj-class="footer-text" padding="10px 20px">
+                    <a href="#" style="color:#fff; text-decoration:underline">Unsubscribe</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
